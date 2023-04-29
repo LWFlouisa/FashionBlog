@@ -4,7 +4,7 @@ author: "S.R. Weaver"
 tags: fashion blogging
 ---
 ## Modern Folk
-This is the standard outfit for the Peperokurate people of my science fiction setting.
+This is the standard outfit for the Peperokurate people of my science fiction setting. The Peperokurate are the descendants of French Alsatian women that immigrated from Alsace after world war III.
 
 ![Brown Bow](https://github.com/LWFlouisa/FashionBlog/blob/main/images/ModernFolk/1431fe0b9135bd713cef997920aee924.jpg?raw=true)
 ![Brown Off Shoulder Top](https://github.com/LWFlouisa/FashionBlog/blob/main/images/ModernFolk/983597cfa9e268a43de4a83470ff3168.jpg?raw=true)
