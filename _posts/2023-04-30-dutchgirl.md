@@ -1,3 +1,11 @@
+---
+title: "Dutch Girl"
+author: "S.R. Weaver"
+tags: fashion blogging
+---
+## Dutch Girl
+Dutch girl fashion style.
+
 ![Hairstyle](https://github.com/LWFlouisa/FashionBlog/blob/main/images/BlackPoncho/1145f7e2e91da8f66bfa3a52d069c3ef.jpg?raw=true)
 ![Necklace](https://github.com/LWFlouisa/FashionBlog/blob/main/images/BlackPoncho/4115df38ca5af5cf39f64da3b77c4536.jpg?raw=true)
 ![Black Fingerless Gloves](https://github.com/LWFlouisa/FashionBlog/blob/main/images/DutchWoman/9e901ba65168ec65fc8d22d136130582.jpg?raw=true)
