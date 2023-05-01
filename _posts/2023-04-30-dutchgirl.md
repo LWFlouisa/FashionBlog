@@ -1,1 +1,1 @@
-https://github.com/LWFlouisa/FashionBlog/blob/main/images/DutchWoman/c40e82267f73f5d4b1c81ac65f218b22.jpg?raw=true
+![Wooden Shoes](https://github.com/LWFlouisa/FashionBlog/blob/main/images/DutchWoman/359c4b8a10c4ef1731198380fd767728.jpg?raw=true)
