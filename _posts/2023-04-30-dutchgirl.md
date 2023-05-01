@@ -7,8 +7,6 @@ tags: fashion blogging
 Dutch girl fashion style.
 
 <p><img src="https://github.com/LWFlouisa/FashionBlog/blob/main/images/BlackPoncho/1145f7e2e91da8f66bfa3a52d069c3ef.jpg?raw=true" height="314px" width="236px">
-
-<p><img src="https://github.com/LWFlouisa/FashionBlog/blob/main/images/BlackPoncho/4115df38ca5af5cf39f64da3b77c4536.jpg?raw=true" height="314px" width="236px">
   
 <p><img src="https://github.com/LWFlouisa/FashionBlog/blob/main/images/BlackPoncho/4115df38ca5af5cf39f64da3b77c4536.jpg?raw=true" height="314px" width="236px">
 
